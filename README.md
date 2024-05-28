@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Aman Pal and I'm a Full Stack Web Developer, from India</h2>
 
 ###
 
@@ -60,4 +60,8 @@
 
 ###
 
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/amanpalap/amanpalap/output/snake.svg" alt="Snake animation" />
+
+###
