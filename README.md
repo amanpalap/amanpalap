@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on College Insights. <br><br>🌱 I’m currently learning Machine Leraning, IOS development.<br><br>💬 Ask me about React, Javascript, node.js, C++, swift and anything related to MERN stack<br><br>📫 How to reach me amanpalap210@gmail.com
+🔭 I’m currently working on College Insights. <br><br>🌱 I’m currently learning Machine Leraning, Nextjs.<br><br>💬 Ask me about React, Javascript, Typescript, node.js, C++, swift and anything related to MERN stack<br><br>📫 How to reach me amanpalap210@gmail.com
 
 
 ## 🌐 Socials:
